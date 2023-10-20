@@ -1,3 +1,5 @@
+The main functionality of this app is selecting a friend (either from the list or adding a new friend to the list) and sharing a bill with him/her. After splitting the bill, the app also shows each friend's balance, where you and your friend might be even or you might owe your friend and vice versa. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
